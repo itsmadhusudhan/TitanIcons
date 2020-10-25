@@ -1,3 +1,5 @@
+library titan_icons;
+
 import 'package:flutter/widgets.dart';
 
 //  Icon(
@@ -15,5 +17,5 @@ class TitanIcons {
 
   static const IconData pen = IconData(0xe908, fontFamily: "TitanIcons");
 
-  static const IconData database = IconData(0xe964, fontFamily: "TitanIcons");
+  static const IconData database = IconData(0xe909, fontFamily: "TitanIcons");
 }
